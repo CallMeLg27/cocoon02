@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+  <company-info>
+    <name>Los libros de Susanita</name>
+    <address>Calle Los Mamuts</address>
+    <postal-code>3222</postal-code>
+    <telephone>993 322 322</telephone>
+  </company-info>
+  <factureto>
+    <name>Luis Germán Esquivel Grados</name>
+    <company-name>Tesla</company-name>
+    <address>Calle San Jacinto</address>
+    <postal-code>5555</postal-code>
+    <telephone>(+51) 993 314 821</telephone>
+    <email>lgeldragondorado@gmail.com</email>
+  </factureto>
+  <products>
+    <product>
+      <id>P0001</id>
+      <name>El secreto de las 7 semillas</name>
+      <description>Lo que dice el titulo</description>
+      <quantity>25</quantity>
+      <price>10.90</price>
+    </product>
+    <product>
+      <id>P0102</id>
+      <name>La conquista del cerebro</name>
+      <description>No se que poner aqui</description>
+      <quantity>30</quantity>
+      <price>9.90</price>
+    </product>
+    <product>
+      <id>P5003</id>
+      <name>Los orientales</name>
+      <description>AKJDADSJADSJKAKLSDJDAJJKAD</description>
+      <quantity>90</quantity>
+      <price>10.90</price>
+    </product>
+    <product>
+      <id>P0326</id>
+      <name>Los 10 mandamientos</name>
+      <description>Moisés estaría orgulloso</description>
+      <quantity>10</quantity>
+      <price>9.70</price>
+    </product>
+    <product>
+      <id>P0535</id>
+      <name>La metodología 4+1</name>
+      <description>Creo que se llamaba así xD</description>
+      <quantity>1000</quantity>
+      <price>25.00</price>
+    </product>
+    <product>
+      <id>P0006</id>
+      <name>Padre Rico Padre Pobre</name>
+      <description>Mi favorito</description>
+      <quantity>90</quantity>
+      <price>3.30</price>
+    </product>
+    <product>
+      <id>P0007</id>
+      <name>Los miserables</name>
+      <description>Es una novela divertida de raperos</description>
+      <quantity>5</quantity>
+      <price>1.00</price>
+    </product>
+    <product>
+      <id>P0008</id>
+      <name>Planeta Rubius</name>
+      <description>correción, este es mi favorito</description>
+      <quantity>28</quantity>
+      <price>7.23</price>
+    </product>
+  </products>
+</content>
